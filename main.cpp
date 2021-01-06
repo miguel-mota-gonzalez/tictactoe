@@ -5,7 +5,7 @@
 #include <QDebug>
 
 /*
- * This program was written as part of a selection process in the QT company
+ * This program was written for QT company
  *
  * Miguel Mota
  * Jan 5 2021
